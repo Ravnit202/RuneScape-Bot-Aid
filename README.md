@@ -26,7 +26,7 @@ Once activated, the bot should automatically tab into RuneScape, if open, or pri
 There are several measures in place to prevent bot detection, and the account used to test the bot has not been banned after ~1month of use, however there is still not a 100% guarantee that your Jagex account will not be banned.
 
 ### Measures :page_facing_up:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are random actions, such as moving the camera in game, that occur occasionally to simulate a human&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;player.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are random actions, such as moving the camera in game, that occur occasionally to simulate a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;human player.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every so often, the bot will print out a message to simulate a human player.
 
