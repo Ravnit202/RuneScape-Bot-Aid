@@ -27,10 +27,12 @@ There are several measures in place to prevent bot detection, and the account us
 
 ### Measures :page_facing_up:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are random actions, such as moving the camera in game, that occur occasionally to simulate a human &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;player.
-
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every so often, the bot will print out a message to simulate a human player.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nearly all delays are randomized and humanized.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mouse movement is humanized with the pyHM python library.
 
 
 ## Contributors :busts_in_silhouette:
