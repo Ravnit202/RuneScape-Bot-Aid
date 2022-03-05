@@ -12,7 +12,9 @@ pip install -r requirements.txt
 Once you have ran the RS-BT.exe file, or the main.py file, you should see a window as such:
 ![Main Window](images/program.PNG "Main Window")
 
-From here, press the "Woodcutting" ![WoodCutting](images/img2.PNG "Woodcutting") button to activate the woodcutting bot. A console should appear and output details about the bot.
+From here, press the "Woodcutting" 
+    ![WoodCutting](images/img2.png "Woodcutting") 
+button to activate the woodcutting bot. A console should appear and output details about the bot.
 
 ## Usage :book:
     
