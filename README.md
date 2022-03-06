@@ -16,6 +16,14 @@ From here, press the "Woodcutting"
     ![WoodCutting](images/img2.png "Woodcutting") 
 button to activate the woodcutting bot. A console should appear and output details about the bot.
 
+## Functionality :scroll:
+The bot works in 3 main 'steps'. Note you should move to an area with several trees before running the bot.
+### 1. Woodcutting 🪓
+The bot will search for trees and click on a detected tree. Once the cutting period is over, the bot will search for another tree. If no other trees are found, see #3.
+### 2. Inventory Emptying :wastebasket:
+Once your inventory is full, the bot will drop all wood logs as if it were a human. Once no more logs are detected in the inventory, the bot will go back to step #1.
+### 3. Finding New Trees :eyes:
+If the bot does not detect any trees, it will first try moving around, followed by moving the in-game camera if movement does not work.
 ## Usage :book:
     
 Once activated, the bot should automatically tab into RuneScape, if open, or print a message in the console informing you that RuneScape is not open. To turn off the bot, simply hold the "=" key for a few seconds, or close the console.
