@@ -34,6 +34,15 @@ There are several measures in place to prevent bot detection, and the account us
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Mouse movement is humanized with the pyHM python library.
 
+## Upcoming Features :electron:
+
+### Mining Bot :rock:
+    A simple Mining Bot
+### Fishing Bot :fishing_pole_and_fish:
+    A simple Fishing Bot
+### Pathfinding :running_man:
+    A way for the bot to deposit materials and move around the map.
+
 ## Contributors :busts_in_silhouette:
 Special thanks to [Kian Brose](https://www.youtube.com/channel/UC1AgWV7PLk_uVDkh35VVf9w) and [Ben Johnson](https://www.youtube.com/channel/UCD8vb6Bi7_K_78nItq5YITA) on youtube for botting tips and practices.
 
